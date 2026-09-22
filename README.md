@@ -38,4 +38,5 @@ Opens `graphify-out/graph.json` (or a path you pass), prints the type of the top
 
 Graphify answers 'how is this project put together'. It does not produce the onboarding video or the demo clip that usually follows. For that, [try Kyncept - AI video (Veo 3.1 text and image to video) plus image generation, in the browser](https://kyncept.com?utm_source=github&utm_medium=ugc&utm_campaign=graphify-api-examples&utm_content=readme-top&utm_term=tier-r): feed it the architecture page or a screenshot and a short script, and you have something to put in the README or the pull request.
 
+
 _Last reviewed: 2026-09-22_
